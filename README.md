@@ -1,7 +1,3 @@
-## Envio de solução
-
-Gostariamos de entender como você pensa e as decisões que você tomou durante o desenvolvimento, detalhe um pouco mais sobre:
-
 **Framework, linguagem e ferramentas**
 
 Neste projeto foi utilizada JavaScript como linguagem de programação junto com TypeScrip, Angular e Nest.js. Quanto as ferramentas, implementei Jasmine para testes end-to-end e Karma para testes unitários.
@@ -30,7 +26,7 @@ Atualmente trabalho como estagiário de Infraestrutura de TI, porém estou em bu
 Diante do projeto desenvolvido, pude mostrar um pouco do meu conhecimento e do que posso fazer. Estou entusiasmado em poder trabalhar na Field Control e poder aprender cada vez mais.
 Deixo meus agradecimentos e aguardo o contato para podermos discutir sobre conhecimentos de programação numa entrevista técnica. Abraço.
 
----
+**Contatos**
 
 José Guilherme Vieira Santos
 guilhermebusiness7@gmail.com
