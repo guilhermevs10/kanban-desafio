@@ -1,34 +1,33 @@
-# App
+#Framework, linguagem e ferramentas
 
-Esse projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) versão 8.3.18 e [NestJs](https://github.com/nestjs/docs.nestjs.com)  versão 10.3.2 .
+Neste projeto foi utilizada JavaScript como linguagem de programação junto com TypeScrip, Angular e Nest.js. Quanto as ferramentas, implementei Jasmine para testes end-to-end e Karma para testes unitários.
 
-## Servidor de Desenvolvimento
-Angular:
-Execute o comando `ng serve` pelo terminal. Navegue para o link `http://localhost:4200/`.
+#Técnologias X e Y
 
-Nest.js
-Execute o comando 'npm run start:dev' pelo terminal. Navegue para o link 'http://localhost:3000/' .
+Utilizei a ferramenta Jasmine pois já vem completa para que os testes sejam realizados sem a necessidade de incluir alguma outra ferramenta JavaScript para tal finalidade e é possível excução em Node.
 
-## Andaime de código
+#Princípios de software
 
-Execute o comando `ng generate component component-name` para gerar um novo componente. Também pode usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Foram utilizados principios de SOLID, que são príncipios que permitem escrever códigos mais limpos, separando responsabilidades, diminuindo acoplamentos, facilitando na refatoração e estimulando o reaproveitamento do código. Como também foi utilizado Design Patterns utilizando a estrutura MVC que permite a construção de projeto que possa ser escalável e que possíveis alterações em quaisquer das camadas seja feita sem interferência nas outras camadas.
 
-## Construir
+#Desafios e problemas
 
-Execute `ng build` para construir o projeto. Os artefatos dec construção serão armazenados em `dist/` no diretório. Utilize `--prod` para construção de bandeira de produção.
+Enfrentei desafio para implementar a configuração dos testes, que consegui resolver lendo artigos, tutoriais e até a documentação.
 
-## Como Usar
+#Melhorias e próximas implementações
 
-A aplicação web consiste em uma página de tarefas. Sendo possível criar uma nova tarefa no botão na parte superior "Nova Tarefa", feito isso, poderá marcar como concluida pelo checkbox. Na parte direita, temos dois botões para alterar e excluir a tarefa.
+O código poderá ser melhorado utilizando uma API GraphQL que permite maior flexibilidade no manuseio e consulta dos dados.
 
-## Rodando Testes Unitários
 
-Execute o comando no terminal `ng test` para rodar os testes unitários pelo [Karma](https://karma-runner.github.io).
+#Sobre Você
 
-## Rodando testes end-to-end
+Sou de uma cidade do interior de Alagoas, chamada Delmiro Gouveia. Vim para São Paulo em busca de melhores oportunidades de trabalho. Logo quando cheguei, ingressei na Universidade Paulista no curso de Sistemas de Informação e me encontro no 5º semestre. Sempre fui fascinado pela tecnologia e o curso só me deu a certeza que sou apaixonado em transformar problemas complexos em soluções simples e criativas. Sempre estou em busca de conhecimento, aprimorando em cursos, palestras e etc. Possuo conhecimento em JavaScript e seus frameworks, Java e Python. Além de príncipios de Engenharia de Software como SOLID e Design Patterns.
+Atualmente trabalho como estagiário de Infraestrutura de TI, porém estou em busca de uma oportunidade de estágio pela área que sempre fez meu coração bater mais forte, Desenvolvimento de Software. 
+Diante do projeto desenvolvido, pude mostrar um pouco do meu conhecimento e do que posso fazer. Estou entusiasmado em poder trabalhar na Field Control e poder aprender cada vez mais.
+Deixo meus agradecimentos e aguardo o contato para podermos discutir sobre conhecimentos de programação numa entrevista técnica. Abraço.
 
-Execute `ng e2e` para rodar os testes e2e pelo [Protractor](http://www.protractortest.org/).
-
-## Para mais informações
-
-Para ter mais ajuda no uso do Angular CLI, execute no terminal o comando `ng help` ou acesse o site [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+---
+#Contatos
+José Guilherme Vieira Santos
+guilhermebusiness7@gmail.com
+11913529693
